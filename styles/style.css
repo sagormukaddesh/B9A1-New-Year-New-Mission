@@ -1,0 +1,101 @@
+header {
+    max-width: 1280px;
+    height: 600px;
+    margin: auto;
+    background-image: url(../resources/Banner.png);
+    background-repeat: no-repeat;
+    border-radius: 0px 15px 15px 0px;
+}
+
+.offer {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.offer-notic {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500
+}
+
+.offer-items {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: -20px;
+}
+
+.party-container {
+    max-height: 100%;
+    margin: auto;
+}
+
+.midnight-party {
+    background-image: url(../resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+.party-headline {
+    color: #FFF;
+    font-size: 54px;
+    font-weight: 900;
+    text-align: left;
+    letter-spacing: 2px;
+}
+
+.party-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
+
+.btn {
+    text-align: left;
+    color: antiquewhite;
+    padding: 20px;
+}
+
+.park-details {
+    height: 300px;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.park-info{
+    color: #F00;
+}
+
+.best-offer {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+
+.paragraph {
+    margin-top: -40px;
+}
+
+.footer-content {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
